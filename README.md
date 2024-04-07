@@ -15,11 +15,8 @@
 
 - 📝 I regularly write articles on [https://tutorialscache.com/](https://tutorialscache.com/)
 
-- 💬 Ask me about **Python : I'm happy to discuss tips, tricks, and best practices in these technologies.**
-
 - 📫 How to reach me **datamanipulateomer@gmail.com**
 
-- ⚡ Fun fact **People call me "PoliticallyCorrectDishwasher"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
