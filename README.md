@@ -1,3 +1,4 @@
+![logo](https://github.com/DataManipulatorOmer/DataManipulatorOmer/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Omer Toqeer</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
